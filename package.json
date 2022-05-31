@@ -1,0 +1,21 @@
+{
+  "name": "orion",
+  "displayName": "orion",
+  "description": "Personal Custom Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orion-color-theme.json"
+      }
+    ]
+  }
+}
